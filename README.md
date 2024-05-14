@@ -17,10 +17,6 @@ Bienvenidos al curso de Checo para principiantes. Este curso está diseñado par
    - [Conversaciones Cotidianas](./conversacionescotidianas.md)
    - Descripción: Ejemplos prácticos de conversaciones en checo para usar en situaciones diarias.
 
-4. **Evaluación de Conocimientos**
-   - [Cuestionario](./cuestionario.md)
-   - Descripción: Prueba tus conocimientos del idioma checo con este cuestionario interactivo.
-
 ## Contribuir
 
 Si estás interesado en contribuir al curso o tienes sugerencias para mejorar el contenido, no dudes en abrir un *issue* o enviar un *pull request* en nuestro repositorio.
